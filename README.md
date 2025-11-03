@@ -19,7 +19,7 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 ## 🧠 O que foi desenvolvido
 
 - ✅ Dashboard executivo com KPIs estratégicos, dividido em 3 abas  
-- ✅ Medidas DAX personalizadas para cálculo dos indicadores  
+- ✅ Medidas e tabelas calculadas criadas com **DAX** para análise dinâmica e aprofundada  
 - ✅ Modelagem de dados com SQL e relacionamentos otimizados  
 - ✅ Segmentações por canal, produto, região e período  
 - ✅ Visualizações interativas e responsivas
@@ -86,5 +86,4 @@ Projeto desenvolvido por **Guilherme de Queiroz**
 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-de-queiroz-5033981b9/)  
 📧 dequeirozguilherme1899@gmail.com  
 🔗 [Portfólio no GitHub](https://github.com/dequeirozguilherme1989-tech)
-
 
