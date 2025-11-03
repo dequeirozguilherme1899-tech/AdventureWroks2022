@@ -2,6 +2,8 @@
 
 Este projeto apresenta uma abordagem analítica para avaliação da performance comercial da empresa AdventureWorks, utilizando o Power BI como ferramenta principal para modelagem, visualização e extração de insights estratégicos, além de consultas em SQL via SSMS para extrair as tabelas necessárias. O objetivo é apresentar um projeto real voltado à tomada de decisões rápidas e orientadas por dados.
 
+🔗 [Veja meu Dashboard no Power BI:](https://app.powerbi.com/view?r=eyJrIjoiMjMwZDVlZGQtMDg2Ni00M2M3LTgxZDEtOWQ5YjJhZjExZjE4IiwidCI6ImVjNTRhZmM0LTI1YjctNGUwMS1hNDM2LWIyZmZlNmQyZDhjMCJ9)
+
 ---
 
 ## 🎯 Objetivo
@@ -16,13 +18,10 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ---
 
-## 🧠 O que foi desenvolvido
+## 🛠️ Tecnologias e Ferramentas
 
-- ✅ Dashboard executivo com KPIs estratégicos, dividido em 3 abas  
-- ✅ Medidas e tabelas calculadas criadas com **DAX** para análise dinâmica e aprofundada  
-- ✅ Modelagem de dados com SQL e relacionamentos otimizados  
-- ✅ Segmentações por canal, produto, região e período  
-- ✅ Visualizações interativas e responsivas
+- **Power BI**: Utilizado para ETL, modelagem com DAX e visualização de dados  
+- **SQL Server**: Fonte de dados original para todos os dashboards
 
 ---
 
@@ -51,6 +50,19 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ---
 
+## 📊 Principais Insights
+
+- Receita total de **R$ 123,22 milhões**, com **275 mil produtos vendidos** e cerca de **19 mil clientes**, resultando em uma **margem final de 21,31%**  
+- **Picos de vendas** identificados nos meses de **junho** e **outubro**  
+- O faturamento das **lojas físicas representa 73,67%** do total  
+- A região **Southwest** lidera em faturamento  
+- A categoria com maior volume de vendas foi **Bikes**, e o produto mais vendido em quantidade foi o **AWC Logo Cap**  
+- O **e-commerce gera maior lucratividade**, representando quase **60% do lucro total**  
+- A categoria **Accessories** apresenta a **maior margem percentual**, enquanto **Bikes** lidera em **lucro absoluto**  
+- Na maior parte do tempo, as **metas não foram atingidas**, com desempenho médio de **83,77% para vendedores** e **49,43% nas metas regionais**
+
+---
+
 ## 📷 Dashboards
 
 ![Dashboard Faturamento](Imagens/dashboard-faturamento.png)  
@@ -61,7 +73,7 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ## 📁 Arquivos do Repositório
 
-- `Dashboard/` — Arquivo do projeto no Power BI  
+- `Dashboard/` — Link do projeto no Power BI  
 - `Data/` — Base de dados modelada via SQL  
 - `Imagens/` — Capturas dos dashboards  
 - `README.md` — Documentação do projeto
@@ -86,4 +98,5 @@ Projeto desenvolvido por **Guilherme de Queiroz**
 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-de-queiroz-5033981b9/)  
 📧 dequeirozguilherme1899@gmail.com  
 🔗 [Portfólio no GitHub](https://github.com/dequeirozguilherme1989-tech)
+
 
