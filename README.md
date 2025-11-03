@@ -73,7 +73,6 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ## 📁 Arquivos do Repositório
 
-- `Dashboard/` — Link do projeto no Power BI  
 - `Data/` — Base de dados modelada via SQL  
 - `Imagens/` — Capturas dos dashboards  
 - `README.md` — Documentação do projeto
