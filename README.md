@@ -68,17 +68,23 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ---
 
-## 📬 Contato
+## 📌 Requisitos
 
-Projeto desenvolvido por **Guilherme de Queiroz**  
-🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-de-queiroz-5033981b9/)  
-📧 dequeirozguilherme1899@gmail.com  
-🔗 [Portfólio no GitHub](https://github.com/dequeirozguilherme1989-tech)
+Para visualizar o projeto completo, é necessário ter o **Power BI Desktop** instalado.
 
 ---
 
 ## 🔄 Futuras evoluções
 
 Inserção da aba de **Compras**, para visualizar de forma mais detalhada os custos, entregas, pedidos e demais indicadores operacionais.
+
+---
+
+## 📬 Contato
+
+Projeto desenvolvido por **Guilherme de Queiroz**  
+🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-de-queiroz-5033981b9/)  
+📧 dequeirozguilherme1899@gmail.com  
+🔗 [Portfólio no GitHub](https://github.com/dequeirozguilherme1989-tech)
 
 
