@@ -2,8 +2,6 @@
 
 Este projeto apresenta uma abordagem analítica para avaliação da performance comercial da empresa AdventureWorks, utilizando o Power BI como ferramenta principal para modelagem, visualização e extração de insights estratégicos, além de consultas em SQL via SSMS para extrair as tabelas necessárias. O objetivo é apresentar um projeto real voltado à tomada de decisões rápidas e orientadas por dados.
 
-🔗 [Veja meu Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjMwZDVlZGQtMDg2Ni00M2M3LTgxZDEtOWQ5YjJhZjExZjE4IiwidCI6ImVjNTRhZmM0LTI1YjctNGUwMS1hNDM2LWIyZmZlNmQyZDhjMCJ9)
-
 ---
 
 ## 🎯 Objetivo
@@ -15,6 +13,8 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 - Produtos com maior impacto financeiro (volume vs. margem)  
 - Comparativo entre canais de venda (online vs. físico)  
 - Performance regional em relação às metas estabelecidas
+
+🔗 [Veja meu Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjMwZDVlZGQtMDg2Ni00M2M3LTgxZDEtOWQ5YjJhZjExZjE4IiwidCI6ImVjNTRhZmM0LTI1YjctNGUwMS1hNDM2LWIyZmZlNmQyZDhjMCJ9)
 
 ---
 
