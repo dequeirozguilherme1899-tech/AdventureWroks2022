@@ -1,6 +1,6 @@
 # 🚴‍♂️ Análise AdventureWorks2022
 
-Este projeto apresenta uma abordagem analítica para avaliação da performance comercial da empresa AdventureWorks, utilizando o Power BI como ferramenta principal para modelagem, visualização e extração de insights estratégicos, além de consultas em SQL via SSMS para extrair as tabelas necessárias. O objetivo é apresentar um projeto real voltado à tomada de decisões rápidas e orientadas por dados.
+Este projeto apresenta uma abordagem analítica para avaliação da performance comercial da empresa AdventureWorks. O objetivo é apresentar um projeto real voltado à tomada de decisões rápidas e orientadas por dados.
 
 ---
 
